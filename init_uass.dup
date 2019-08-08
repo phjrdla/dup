@@ -1,0 +1,12 @@
+#
+SourceSid=EASS
+SourceSidPwd=Ora-pass-6
+#
+DestSid=UASS
+TMPDIR=/tmp
+#
+ORACLE_HOME=/oracle/product/12.1
+oracle_admin=/oracle/admin
+oracle_oradata=/oracle/oradata
+oracle_flash_recovery=/oracle/flash_recovery
+recovery_file_dest_size=200G
