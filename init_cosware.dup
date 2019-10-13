@@ -1,0 +1,15 @@
+#
+#SourceSid=COSWAREC1
+SourceSid=COSWAREF1
+SourceSidPwd=Koek1081
+#
+DestSid=COSWARI1
+TMPDIR=/tmp
+#
+ORACLE_HOME=/u01/app/oracle/product/12.2/dbhome_1
+oracle_admin=/u01/app/oracle/admin
+oracle_oradata=/u02/oradata
+oracle_flash_recovery=/u02/oradata/flash_recovery
+recovery_file_dest_size=20G
+db_name=COSWARE
+db_unique_name=COSWARI1
